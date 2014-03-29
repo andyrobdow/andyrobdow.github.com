@@ -31,7 +31,7 @@ body { background-image: url('codemaking.JPG'); background-repeat: no-repeat; ba
 }
 body { 
   color: orange;
-  text-align: left;
+  text-align: right;
   text-shadow: 0 1px 3px rgba(0,0,0,.5);
   box-shadow: inset 0 0 100px rgba(0,0,0,.5);
 }
